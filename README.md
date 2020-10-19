@@ -14,7 +14,7 @@
 </p>
 
 
-## What is lakeFS
+## What is lakeFS?
 
 lakeFS is an open source layer that delivers resilience and manageability to object-storage based data lakes.
 
