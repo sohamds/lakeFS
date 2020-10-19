@@ -39,7 +39,7 @@ For more information see the [Official Documentation](https://docs.lakefs.io).
 * **Reproducibility** - go back to any point of time to a consistent version of your data lake.
 
 **Continuous Data Integration**
-* **Ingest new data safely by enforcing best practices** - make sure new data sources adhere to your lake’s best practices such as format and schema enforcement, naming convention, etc.  
+* **Take in new data safely by enforcing best practices** - make sure new data sources adhere to your lake’s best practices such as format and schema enforcement, naming convention, etc.  
 * **Metadata validation** - prevent breaking changes from entering the production data environment.
 
 **Continuous Data Deployment**
